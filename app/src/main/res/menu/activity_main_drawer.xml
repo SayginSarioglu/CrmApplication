@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_kisiler" android:icon="@drawable/kisiler"
+            android:title="Kişiler" />
+        <item android:id="@+id/nav_firmalar" android:icon="@drawable/firmalar"
+            android:title="Firmalar" />
+        <item android:id="@+id/nav_eylemler" android:icon="@drawable/eylemler"
+            android:title="Eylemler" />
+        <item android:id="@+id/nav_gorusmeler" android:icon="@drawable/gorusme"
+            android:title="Görüşmeler" />
+        <item android:id="@+id/nav_toplantilar" android:icon="@drawable/toplanti"
+            android:title="Toplantılar" />
+        <item android:id="@+id/nav_teklifler" android:icon="@drawable/offer"
+            android:title="Teklifler" />
+        <item android:id="@+id/nav_takvim" android:icon="@drawable/calender"
+            android:title="Takvim" />
+    </group>
+
+
+
+</menu>
