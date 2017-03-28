@@ -17,7 +17,7 @@ import com.example2.diablove.yakamozrehberi.MenuActivities.Toplantilar;
 import com.example2.diablove.yakamozrehberi.R;
 
 /**
- * ANANI AVRADINI s Created by Diablove on 8/24/2016.
+ * nfkjasnfasjkfn Created by Diablove on 8/24/2016.
  */
 public class AlternativeMenuAdapter {
 
