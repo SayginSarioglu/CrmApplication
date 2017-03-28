@@ -17,11 +17,11 @@ import com.example2.diablove.yakamozrehberi.MenuActivities.Toplantilar;
 import com.example2.diablove.yakamozrehberi.R;
 
 /**
- * Created by Diablove on 8/24/2016.
+ * ANANI AVRADINI Created by Diablove on 8/24/2016.
  */
 public class AlternativeMenuAdapter {
 
-    public AppCompatActivity appCompatActivity;
+    private AppCompatActivity appCompatActivity;
 
     public AlternativeMenuAdapter(AppCompatActivity appCompatActivity) {
         this.appCompatActivity = appCompatActivity;
