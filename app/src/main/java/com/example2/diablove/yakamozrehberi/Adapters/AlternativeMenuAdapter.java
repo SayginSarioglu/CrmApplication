@@ -19,6 +19,7 @@ import com.example2.diablove.yakamozrehberi.R;
 /**ksadajskdjaslk
  * deneme15?01
  *  Created by Diablove on 8/24/2016.
+ *  1514
  */
 public class AlternativeMenuAdapter {
 
