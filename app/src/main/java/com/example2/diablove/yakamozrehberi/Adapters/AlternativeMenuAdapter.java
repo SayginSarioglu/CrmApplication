@@ -17,6 +17,7 @@ import com.example2.diablove.yakamozrehberi.MenuActivities.Toplantilar;
 import com.example2.diablove.yakamozrehberi.R;
 
 /**ksadajskdjaslk
+ * deneme15?01
  *  Created by Diablove on 8/24/2016.
  */
 public class AlternativeMenuAdapter {
